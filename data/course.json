@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "15bd330a-6dd3-45a9-f559-7f47584193b7",
+  "instructors": {
+    "content": [
+      "d98f8cba-e803-7fbb-5a38-7aa743ef29d0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "14438afb-ab1f-2900-cc23-099df2cd27df",
+    "website": "mas-962-special-topics-in-media-technology-computational-semantics-fall-2002"
+  },
+  "course_title": "Special Topics in Media Technology: Computational Semantics",
+  "hide_download": true,
+  "course_description": "How do words get their meanings? How can word meanings be represented and used by machines? We will explore three families of approaches to these questions from a computational perspective. Relational / structural methods such as semantic networks represent the meaning of words in terms of their relations to other words. Knowledge of the world through perception and action leads to the notion of external grounding, a process by which word meanings are 'attached' to the world. How an agent theorizes about, and conceptualizes its world provides yet another foundation for word meanings. We will examine each of these perspectives, and consider ways to integrate them.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.962",
+  "course_image_thumbnail": {
+    "content": "5bf80bab-c742-fb3d-1740-dff1369eb0e8",
+    "website": "mas-962-special-topics-in-media-technology-computational-semantics-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "55a4e8ea-79de-4b68-aad5-5b09ae342dab",
+  "site_short_id": "mas.962-fall-2002",
+  "site_url_path": "courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002",
+  "title": "Course Metadata"
+}
